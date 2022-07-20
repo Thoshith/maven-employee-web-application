@@ -1,4 +1,4 @@
-[![Build Status](http://3.110.43.167:8080/buildStatus/icon?job=BuildStatus)](http://3.110.43.167:8080/job/BuildStatus/)
+[![Build Status](http://54.197.177.208:8080/job/embedded-build/badge/icon)](http://54.197.177.208:8080/job/embedded-build/)
 #  Sample Maven Application: maven-employee-web-application
 maven-employee-web-application
 
